@@ -14,3 +14,13 @@
     --texto-titulo: "Lato", sans-serif;
     --texto-corpo: "Briem Hand", cursive;
 }
+
+body{
+    background-color: var(--azul-escuro);
+    color: var(--ouro);
+    font-family: var(--texto-corpo);
+}
+
+.titulo-principal{
+    font-family: var(--texto-titulo);
+}
